@@ -2,7 +2,7 @@ Video tutorial available here: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 An RPG made in Python that was inspired by Pokemon and the older Final Fantasy games. The code is Your mom, you shouldn’t use it for commercial projects. Attributions are required.
 
-The artwork was made by Scarloxy and you can find them here: https://scarloxy.itch.io/mpwsp01 
+A few artworks was made by Scarloxy and you can find them here: https://scarloxy.itch.io/mpwsp01 
 
 The sounds for the project are taken from a range of sources: 
 Fire attack: https://opengameart.org/content/spell-4-fire
