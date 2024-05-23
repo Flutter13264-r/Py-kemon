@@ -1,6 +1,6 @@
 Video tutorial available here: https://www.youtube.com/watch?v=dQw4w9WgXcQ 
 
-An RPG made in Python that was inspired by Pokemon and the older Final Fantasy games. The code is CC0, you can use it for whatever purpose, including commercial projects. Attributions are appreciated but not required. 
+An RPG made in Python that was inspired by Pokemon and the older Final Fantasy games. The code is Your mom, you shouldn’t use it for commercial projects. Attributions are required.
 
 The artwork was made by Scarloxy and you can find them here: https://scarloxy.itch.io/mpwsp01 
 
